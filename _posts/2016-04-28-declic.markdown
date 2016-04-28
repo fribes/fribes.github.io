@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Declic !"
+date:   2016-04-28 15:47:23 +0200
+categories: moto piste 
+---
+
+Après plusieurs essais infructueux, j'ai finalement commencé à comprendre quelque chose au pilotage, d'où le titre ;-) Comme j'ai envie de conserver ces petits instants de compréhension pour le futur, et que ca peut en intéresser d'autres, autant tout ranger dans un blog. Facile à retrouver et à communiquer, je pourrais même le laisser à l'abandon et y revenir plus tard.
+
+![pifpaf](/assets/images/pifpaf_ahead.jpg)
