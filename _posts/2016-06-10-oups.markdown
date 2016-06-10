@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Oups et crash"
+date:   2016-06-10 14:47:23 +0200
+categories: moto piste 
+---
+
+Mini break dans la tenue du moto blog pour cause de force majeure : bras droit en echarpe et petit doigt gauche strapé...
+
+Lors de la journée Yam65 du 15 mai, après une matiné grévée par la pluie sur les premières sessions, et un passage dans le groupe Moyen pour la deuxieme session de l'apres midi, un guidonnage malencontreux dans le pif paf a coupé court à ma fantastique progression  au chrono ;-)
+
+Le dernier tour et la sortie de piste en images: https://www.youtube.com/watch?v=fEbYkE9Gf6I
+
+Même si ça m'ennuie de me defausser, j'ai quand même l'impression de ne pas y être pour grand chose, et j'ai l'impression que ma fourche m'a joué un mauvais tour. 
+
+Lors d'une journée précedente, sur les conseils d'un ami(?) pilote qui disqit 'faut durcir faut durcir', j'avais changé le reglage de compression AV de 6 à 4 clics. Après un léger guidonnage dans le pif paf, j'étais vite revenu au reglage precedent.
+
+Le jour du crash, mes reglages étaient :
+
+AV            AR
+Comp Det   Comp   Det
+6    4     8      4
+
+soit à peine plus freiné que les reglages 'ferme' du manuel constructeur qui sont :
+
+AV            AR
+Comp Det   Comp   Det
+6    5     10     5
+
+Ce que je ne savais pas, c'est que les reglages routes d'un daytona sont dejà très fermes au départ, et ne conviennent pas à la piste, au moins pour Arnos.
+D'après Seb Landaburu, sur les dayto, c'est plutôt en ouvrant pour assouplir que l'on s'approche du 'bon' réglage...
+
+Info intéressante, mais malheureusement trop tard pour ma pauvre dayto qui souffert dans les graviers, ou plutôt les galets !
