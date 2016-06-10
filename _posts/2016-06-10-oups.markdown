@@ -9,25 +9,60 @@ Mini break dans la tenue du moto blog pour cause de force majeure : bras droit e
 
 Lors de la journée Yam65 du 15 mai, après une matiné grévée par la pluie sur les premières sessions, et un passage dans le groupe Moyen pour la deuxieme session de l'apres midi, un guidonnage malencontreux dans le pif paf a coupé court à ma fantastique progression  au chrono ;-)
 
-Le dernier tour et la sortie de piste en images: https://www.youtube.com/watch?v=fEbYkE9Gf6I
+Le dernier tour et la sortie de piste en images [ici](https://www.youtube.com/watch?v=fEbYkE9Gf6I)
 
-Même si ça m'ennuie de me defausser, j'ai quand même l'impression de ne pas y être pour grand chose, et j'ai l'impression que ma fourche m'a joué un mauvais tour. 
+Même si ça m'ennuie de me defausser, j'ai quand même l'impression de ne pas y être pour grand chose, et je dirais que ma fourche m'a joué un mauvais tour. 
 
-Lors d'une journée précedente, sur les conseils d'un ami(?) pilote qui disqit 'faut durcir faut durcir', j'avais changé le reglage de compression AV de 6 à 4 clics. Après un léger guidonnage dans le pif paf, j'étais vite revenu au reglage precedent.
+Suspensions:
+------------
+
+Lors d'une journée précedente, sur les conseils d'un ami(?) pilote qui disait 'faut durcir faut durcir', j'avais changé le reglage de compression AV de 6 à 4 clics. Après un léger guidonnage dans le pif paf, j'étais vite revenu au reglage precedent.
 
 Le jour du crash, mes reglages étaient :
 
-AV            AR
-Comp Det   Comp   Det
-6    4     8      4
+	AV            AR
+	Comp Det   Comp   Det
+	6    4     8      4
 
 soit à peine plus freiné que les reglages 'ferme' du manuel constructeur qui sont :
 
-AV            AR
-Comp Det   Comp   Det
-6    5     10     5
+	AV            AR
+	Comp Det   Comp   Det
+	6    5     10     5
 
-Ce que je ne savais pas, c'est que les reglages routes d'un daytona sont dejà très fermes au départ, et ne conviennent pas à la piste, au moins pour Arnos.
+Coté course morte 
+A l'avant: 12,4 mm roue en l'air, 10,4mm moto seule, 9,5mm avec pilote. Soit 29mm sur les 110 de debattement.
+A l'arriere : pas mesuré
+
+Ce que je ne savais pas, c'est que les reglages route d'un daytona sont dejà très fermes au départ, et ne conviennent pas à la piste, au moins pour Arnos.
 D'après Seb Landaburu, sur les dayto, c'est plutôt en ouvrant pour assouplir que l'on s'approche du 'bon' réglage...
 
-Info intéressante, mais malheureusement trop tard pour ma pauvre dayto qui souffert dans les graviers, ou plutôt les galets !
+Info intéressante, mais malheureusement trop tard pour ma pauvre dayto qui a souffert dans les graviers, ou plutôt les galets !
+
+Bilan moto:
+-----------
+* poly tous dechiquétés hormis celui de la boucle arriere / selle qui est quand meme bien amoché
+* finition carbone du pot akra cassée
+* platine tableau de bord / bulle cassée
+* entrée air cassée
+* tableau de bord avec un ecran cassé mais fonctionne encore (necessaire pour démarrer)
+* nemman cassé
+* té supérieur de fourche 'rainuré'
+* bras de fourche rayés
+* té insférieur tordu
+* radiateur deformé
+* reservoir enfoncé (2 impacts)
+* commodo gauche rappé
+* roulette droite rappé et vis tordue
+* durite reservoir frein AV fissurée
+* patte reservoir frein AV cassée
+
+soit 1000€ pour remise en piste en gardant tableau de bord et reservoir abimés
+ou 1500€ avec tableau de bord et reservoir changés
+
+Les bras de fourche ont été controlés: 0,10 et 0,25 mm de fleche max. Changement huile et joints spi (ca commencait à fuir un peu)
+
+Bilan pour moi:
+---------------
+* Petite fracture à la base du 5ieme doigt main gauche.
+* Fracture peu déplacée du trochiter (humerus) épaule droite.
