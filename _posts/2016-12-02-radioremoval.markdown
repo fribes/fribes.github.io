@@ -13,6 +13,7 @@ Donc pas d'hésitation: retrait du chargeur CD, des 4 HPs, et de l'autoradio.
 HP
 --
 Pour les deux de devant, rien de particulier. Cache à dévisser, puis HP, retrait, cache à revisser.
+
 Pour les deux de derrière:
 
 * tirer sur les grilles qui ne tiennent que par la pression du joint
@@ -37,4 +38,4 @@ Bilan poids:
 * chargeur CD : 2340g
 * autoradio   : 1633g
 
-** Total:          5,3 kg**
+**Total:          5,3 kg**
