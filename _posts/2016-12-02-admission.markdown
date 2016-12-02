@@ -31,7 +31,7 @@ La lecture des forums incitait à déposer la roue arrière gauche pour facilite
 
 ## Casse
 
-Malheureusement, ma douille anti-vol a laché vers 120Nm, m'empechant de démonter la roue. Photo envoyée à sales@evoautomotive.co.uk pour connaitre le code (880 pour moi), puis commande sur le [site](www.evoautomotive.com). 2 douilles 30€ port inclus.
+Malheureusement, ma douille anti-vol a laché vers 120Nm, m'empechant de démonter la roue. Photo envoyée à sales@evoautomotive.co.uk pour connaitre le code (880 pour moi), puis commande sur le [site](http://www.evoautomotive.com). 2 douilles 30€ port inclus.
 
 ## Démontage par le trappon
 
@@ -45,7 +45,8 @@ RAS, c'est tout droit.
 
 # Reset mesure ouverture papillon
 
-Nouveau boitier => calibration à faire
+Nouveau boitier => calibration à faire.
+
 Procédure:
 
 * contact on
