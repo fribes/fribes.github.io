@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Elise brake fluid replacement"
+date:   2016-12-17 18:15:00 +0200
+categories: elise light 
+---
+
+![working_hard](/assets/images/working_hard.jpg)
+
+Remplacement liquide de frein
+-----------------------------
+
+Méthode Michel : à l'aspirateur !
+Le bocal est maintenu à niveau, et on place successivement l'aspiration sur les 4 etriers et le recepteur de commande d'embrayage.
+
+
+Tips
+----
+
+Pas besoin de retirer les roues avant, mais obligatoire pour les roues arrières.
+
+Consommables
+------------
+Liquide de frein DOT4, un peu plus d'un litre. 
