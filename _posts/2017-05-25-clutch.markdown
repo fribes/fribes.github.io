@@ -6,6 +6,11 @@ categories: elise light
 ---
 
 
+Il y quelques mois en hiver, au moment de repartir d'un feu rouge, impossible de passer la 1ère :( pas mieux avec la seconde ou la troisième .... et après plusieurs tentatives, embrayages et débrayages, la première passe et plus de souci le temps qu'a duré la balade (env. 40 min) ... louche ..., je mets cela sur le compte du froid et prévoie de changer l'huile de boite.
+Puis, il y a quelques semaines, à un stop je cale ... bizarre. Un coup de démarreur plus tard, 1ère enclenché et pédale d'embrayage à fond : l'elise avance toute seule. Je suis sur une voie d'insertion, il n'y pas de place, il faut temporiser ! Frein / point mort pour finir la sortie. Cette fois pas de froid, l'huile de boite n'est peut être pas en cause.
+Après une recherche rapide, il semble que le récepteur de commande d'embrayage soit le coupable !
+
+
 Symptômes
 ---------
 
@@ -18,18 +23,13 @@ Constats
 
 - fuite de liquide au niveau du récepteur d'embrayage
 - baisse du niveau du liquide de frein dans le réservoir (commun avec le circuit d'embrayage)
+- la fixation du récepteur ne bouge pas au débrayage (pour une origine, ce n'est pas normal, elle devrait se déformer un peu)
 
+Réparation
+----------
 
-Remplacement du récepteur d'embrayage
--------------------------------------
-
-Douille de 10mm pour les vis de fixations
-
-
-Purge du circuit 
-----------------
-
-Toujours méthode Michel ;-)
+- remplacement du récepteur d'embrayage
+- purge du circuit 
 
 
 Consommables
