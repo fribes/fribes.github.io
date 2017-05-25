@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Elise clutch"
+date:   2017-05-25 16:15:00 +0200
+categories: elise light 
+---
+
+
+Symptômes
+---------
+
+- Difficulté à passer les vitesses depuis le point mort (que ce soit la premiere ou une autre)
+- Voiture qui avance toute seule en 1ère malgré une pédale d'embrayage enfoncée à fond
+
+
+Constats
+--------
+
+- fuite de liquide au niveau du récepteur d'embrayage
+- baisse du niveau du liquide de frein dans le réservoir (commun avec le circuit d'embrayage)
+
+
+Remplacement du récepteur d'embrayage
+-------------------------------------
+
+Douille de 10mm pour les vis de fixations
+
+
+Purge du circuit 
+----------------
+
+Toujours méthode Michel ;-)
+
+
+Consommables
+------------
+
+Liquide de frein DOT4, un demi litre.
