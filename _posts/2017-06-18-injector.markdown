@@ -32,7 +32,7 @@ Pour l'extraction (laborieuse !), j'ai alterné :
 - légéres poussées avant arrière sur l'entrée de gasoil de l'injecteur en la tenant avec une clé à pipe de 13mm
 - léger levier avec un tournevis plat en rotation entre le carter et la base de l'arrivée de gasoil
 
-Le tout en exeçant un traction vers le haut à l'aide d'un "lasso" maison qui prend sous le gros écrou axial qui se trouve en haut de l'injecteur, en dessous de la partie plastique, afin de ne rien abimer.
+Le tout en exeçant une traction vers le haut à l'aide d'un "lasso" maison qui prend sous le gros écrou axial qui se trouve en haut de l'injecteur, en dessous de la partie plastique, afin de ne rien abimer.
 
 ## Prises sur l'injecteur
 
