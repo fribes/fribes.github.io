@@ -1,0 +1,71 @@
+---
+layout: post
+title:  "Fuite Alfa"
+date:   2017-06-18 18:15:00 +0200
+categories: alfa moteur  
+---
+
+# TCHIT TCHIT
+
+
+Depuis pas mal de temps (bon ok, des années...), il y avait du gasoil autour de l'injecteur du cylindre 1. Dernierement, c'était plutot comme du goudron avec quelques projections autour. Et parfois, j'ai entendu un 'tshit tshit' qui faisait penser à une fuite. Après recherche sur le web, le joint de portée d'injecteur est incréminé :-) Moins d'un euros la pièce, GO !
+
+## Moteur
+
+Diesel 1.9jtdm 16V (2005)
+
+## Dépose
+
+Le démontage demande la dépose :
+
+- du connecteur de commande d'injection (agrafe jaune)
+- du retour gasoil (goupille)
+- du tuyau d'arrivé de gasoil (14 / 17mm)
+- de l'écrou de bride (12mm)
+
+## Extraction injecteur
+
+Pour l'extraction (laborieuse !), j'ai alterné :
+
+- giclées de WD40
+- légères poussées avant arrière sur la bride  
+- légéres poussées avant arrière sur l'entrée de gasoil de l'injecteur en la tenant avec une clé à pipe de 13mm
+- léger levier avec un tournevis plat en rotation entre le carter et la base de l'arrivée de gasoil
+
+Le tout en exeçant un traction vers le haut à l'aide d'un "lasso" maison qui prend sous le gros écrou axial qui se trouve en haut de l'injecteur, en dessous de la partie plastique, afin de ne rien abimer.
+
+## Prises sur l'injecteur
+
+![Extraction](/assets/images/prises.jpg)
+
+## Injecteur
+
+![Injecteur crade](/assets/images/injecteur_collant.jpg)
+
+Une fois l'injecteur sorti, attention à ne pas laisser rentrer quoi que ce soit dans la chambre : chiffon et aspirateur sont les bienvenus pour éliminer les saletés.
+
+## Extraction du joint
+
+Le joint en cuivre est évidemment bien collé au fond. Pas moyen de le tirer avec un tige à crochet. Il finir par venir avec un tournevis plat large que je 'plante' gentimment à coup de maillet puis que je fais tourner.
+
+![Extracteur maison](/assets/images/extracteur_maison.jpg)
+
+![Joint crade](/assets/images/joint_crade.jpg)
+
+## Nettoyage de l'injecteur 
+
+Tige inox pour les gros morceaux et chiffon imbibé de pétrole désaromtisé pour la finition
+
+## Nettoyage de la porté
+
+Se fait normalement à l'alésoir, mais je n'en ai pas, alors je me contente de frotter avec une chute de tube multicouche polyéthylene (reste de salle de bains !) qui se trouve avoir le bon diametre. Je fais tourner le tube entre les deux mains en exercant une pression vers le bas, comme pour allumer un feu ;-)
+
+## Remontage
+
+Le joint neuf a quatres picos qui le maintiennent sur l'injecteur. Le remontage se fait sans difficultés. Couple de serrage de la bride : 30 Nm.
+
+
+## Essai
+
+Après avoir laisser chauffer le moteur, je fais quelques accélérations franches de 1500 à 3500 tr/min, pleine charge. Pas de fuite :-) 
+Reste à recontrôler après un long trajet style autoroute.
