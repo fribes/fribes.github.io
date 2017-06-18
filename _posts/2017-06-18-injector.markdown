@@ -46,7 +46,7 @@ Une fois l'injecteur sorti, attention à ne pas laisser rentrer quoi que ce soit
 
 ## Extraction du joint
 
-Le joint en cuivre est évidemment bien collé au fond. Pas moyen de le tirer avec une tige à crochet. Il finir par venir avec un tournevis plat large que je 'plante' gentimment à coup de maillet puis que je fais tourner.
+Le joint en cuivre est évidemment bien collé au fond. Pas moyen de le tirer avec une tige à crochet. Il finit par venir avec un tournevis plat large que je 'plante' gentimment à coup de maillet puis que je fais tourner.
 
 ![Extracteur maison](/assets/images/extracteur_maison.jpg)
 
