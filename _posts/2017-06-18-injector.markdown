@@ -62,10 +62,10 @@ Se fait normalement à l'alésoir, mais je n'en ai pas, alors je me contente de 
 
 ## Remontage
 
-Le joint neuf a quatres picos qui le maintiennent sur l'injecteur. Le remontage se fait sans difficultés. Couple de serrage de la bride : 30 Nm.
+Le joint neuf a quatres picos qui le maintiennent sur l'injecteur. Le remontage se fait sans difficulté. Couple de serrage de la bride : 30 Nm.
 
 
 ## Essai
 
-Après avoir laisser chauffer le moteur, je fais quelques accélérations franches de 1500 à 3500 tr/min, pleine charge. Pas de fuite :-) 
+Après avoir laisser chauffer le moteur, je fais quelques accélérations franches de 1500 à 3500 tr/min, pleine charge (en roulant). Pas de fuite :-) 
 Reste à recontrôler après un long trajet style autoroute.
