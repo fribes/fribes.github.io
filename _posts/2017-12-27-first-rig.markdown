@@ -1,0 +1,104 @@
+---
+layout: post
+title:  "First Rig Software"
+date:   2017-12-27 19:15:00 +0200
+categories: crypto mining
+---
+
+## Setup
+
+* install ubuntu 16.04.3
+* install AMD opencl
+
+Download [here](http://support.amd.com/en-us/kb-articles/Pages/Installation-Instructions-for-amdgpu-Graphics-Stacks.aspx)
+
+Install only required packages for computing:
+
+`./amdgpu-pro-install -y --opencl=legacy --headless`
+
+* check opencl available
+
+`sudo apt install clinfo`
+
+{% highlight bash %}
+robot@rig1:~$ clinfo
+Number of platforms                               1
+  Platform Name                                   AMD Accelerated Parallel Processing
+  Platform Vendor                                 Advanced Micro Devices, Inc.
+  Platform Version                                OpenCL 2.1 AMD-APP (2527.3)
+  Platform Profile                                FULL_PROFILE
+{% endhighlight %}
+
+
+* Pick a coin and a pool
+
+To be at ease, I choosed a french pool : [La Baleine](https://ubiq.labaleine.gg/#/)
+
+*  Get an address 
+
+Install UBIQ wallet [Fusion](https://github.com/ubiq/fusion)
+
+* Install miner
+
+I took Claymore as recommended by La Baleine
+
+Download [here](https://mega.nz/#F!O4YA2JgD!n2b4iSHQDruEsYUvTQP5_w)
+
+* Install byobu
+
+`apt install byobu`
+
+* Start mining 
+
+In a byobu terminal:
+
+`./ethdcrminer64 -epool mine.ubiq.labaleine.gg:8088 -ewal 0x760F100F3087462e88A36cd91BdFA33d82748440 -eworker frbZ -epsw x -allcoins 1 -allpools 1 -mode 1 -dcri 15`
+
+* Output 
+
+{% highlight bash %}
+ETH: 12/27/17-11:00:24 - SHARE FOUND - (GPU 0)
+ETH: Share accepted (28 ms)!
+GPU0 t=64C fan=35%
+ETH: 12/27/17-11:00:51 - SHARE FOUND - (GPU 0)
+ETH: Share accepted (30 ms)!
+ETH: 12/27/17-11:00:59 - SHARE FOUND - (GPU 0)
+ETH: Share accepted (28 ms)!
+ETH: 12/27/17-11:01:08 - New job from mine.ubiq.labaleine.gg:8088
+ETH - Total Speed: 24.371 Mh/s, Total Shares: 174, Rejected: 0, Time: 04:16
+ETH: GPU0 24.371 Mh/s
+GPU0 t=64C fan=35%
+GPU0 t=64C fan=34%
+ETH: 12/27/17-11:01:59 - New job from mine.ubiq.labaleine.gg:8088
+ETH - Total Speed: 24.384 Mh/s, Total Shares: 174, Rejected: 0, Time: 04:17
+ETH: GPU0 24.384 Mh/s
+GPU0 t=64C fan=35%
+{% endhighlight %}
+
+Dev fee in Claymore:
+
+{% highlight bash %}
+DevFee: ETH: Stratum - connecting to 'eth-eu.dwarfpool.com' <87.98.182.61> port 8008
+DevFee: ETH: Stratum - Connected (eth-eu.dwarfpool.com:8008)
+ETH: Authorized
+DevFee: start mining
+Setting DAG epoch #160...
+DevFee: ETH: 12/27/17-11:02:18 - New job from eth-eu.dwarfpool.com:8008
+Setting DAG epoch #160 for GPU0
+GPU0 DAG creation time - 5684 ms
+Setting DAG epoch #160 for GPU0 done
+GPU0 t=63C fan=37%
+DevFee: stop mining and disconnect
+Setting DAG epoch #11...
+Setting DAG epoch #11 for GPU0
+GPU0 DAG creation time - 2551 ms
+Setting DAG epoch #11 for GPU0 done
+GPU0 t=61C fan=40%
+GPU0 t=61C fan=36%
+ETH: 12/27/17-11:04:11 - New job from mine.ubiq.labaleine.gg:8088
+ETH - Total Speed: 24.402 Mh/s, Total Shares: 174, Rejected: 0, Time: 04:19
+ETH: GPU0 24.402 Mh/s
+GPU0 t=62C fan=35%
+ETH: 12/27/17-11:04:15 - SHARE FOUND - (GPU 0)
+ETH: Share accepted (30 ms)!
+{% endhighlight %}
