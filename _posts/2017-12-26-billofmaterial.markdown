@@ -51,3 +51,7 @@ Cheapest, low consumption, as the computing effort is done by the GPUs.
 ## Memory
 
 Cheapest compatible with motherboard : DDR4 mandatory, 4GB is the smallest amount availble.
+
+# Assembly
+
+![First rig](/assets/images/rig_v0_1_0.jpg)
