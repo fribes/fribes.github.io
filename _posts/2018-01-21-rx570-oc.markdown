@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Rx570 overclocking"
+date:   2018-01-21 19:15:00 +0200
+categories: crypto mining
+---
+
+## MSI rx570 gaming x
+
+{% highlight bash %}
+
+Adapter  2    (BN=03, DN=00, PCIID=67DF1002, SSID=34161462)
+    Asic Family        :  Ellesmere      
+    Flash Type         :  W25X40      (512 KB)
+    Product Name       :  113-MSITV341MH.532 
+    Bios Config File   :  532.111        
+    Bios P/N           :  113-F4         
+    Bios Version       :  015.050.002.001.000000
+    Bios Date          :  08/28/17 04:07 
+    ROM Image Type     :  Hybrid Images
+    ROM Image Details  :  
+        Image[0]: Size(60416 Bytes), Type(Legacy Image)
+        Image[1]: Size(58880 Bytes), Type(EFI Image)
+{% endhighlight %}
+
+## OC
+
+CPU underclocked @ 1139Mhz
+
+### Memory
+
+| Memory straps | Frequency (Mhz) | Hashrate (MH/s) | 
+|-------|--------|---------|
+| stock | 1750 | 21.7 |
+| stock | 1950 | 21.6 |
+| PBE1.6.6 | 1950 | 21.7 |
+| PBE1.6.6 | 2000 | 28.2 |
+| PBE1.6.6 | 2030 | 28.8 |
+| PBE1.6.6 | 2100 | 27.8 - 29.6 slightly unstable| 
+| PBE1.6.6 | 2150 | 13.3 - 28.8 unstable, mem freq drops to 1000Mhz |
+| PBE1.6.6 | 2070 | 29.3 stable|
