@@ -5,8 +5,6 @@ date:   2018-03-04 19:15:00 +0200
 categories: elise
 ---
 
-# Deuxieme couche crochet [x]
-
 # ventilateurs
 
 # Caoutchouc
@@ -16,13 +14,10 @@ categories: elise
 - vidange boite
 - cales 
 
-# silencieux
-
-[x] commmande
-
 # kit filtre
 
 [x] reception
+[ ] application 
 
 # Rénovation plastiques
 
@@ -47,7 +42,9 @@ http://www.skyrichbattery.com/p552/HJTX30L-FP%3Cbr-/%3ELithium-Ion-Battery-YIX30
 
 Pb fiabilité
 
-Odyssey ? Plus lourd, mais fuiable.
+Odyssey PC680 OK
+Odyssey PC625 OK
+Odyssey PC545 OK Metal jacket pour temperature étentues + vibrations 
 
 # Pression réservoir
 
@@ -60,6 +57,8 @@ Déjà présentes en decembre 2016 => rien à faire
 # Toe link
 
 [x] commande
+[ ] montage
+[ ] parralellisme (laser )
 
 # Huile/ filtre
 
