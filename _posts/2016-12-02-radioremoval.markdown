@@ -37,5 +37,6 @@ Bilan poids:
 * 4 HP : 		1315g
 * chargeur CD : 2340g
 * autoradio   : 1633g
+* plaques support : 134g
 
-**Total:          5,3 kg**
+**Total:          5,422 kg**
