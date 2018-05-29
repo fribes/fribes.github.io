@@ -29,8 +29,13 @@ Rien à signaler, si ce n'est la sonde lambda grippée sur le catalyseur d'origi
 * clé à oeil ouverte ( fragile, casse en forçant )
 
 le tout malgré un arrosage abondant en WD40 :-(
+![ecrou_lambda](/assets/images/ecrou_lambda.jpg)
 
 finalement, la sonde est venue avec une clé à griffe neuve + rallonge. Le WD40 avait pénétré par l'extérieur et l'intérieur mais 3-4 filets restaient grippés.
+
+![arsenal_lambda](/assets/images/arsenal_lambda.jpg)
+
+
 
 Pieces origines
 ---------------------
