@@ -35,16 +35,7 @@ categories: elise
 
 # Batterie allégée 
 
-Actuelle : FB500 50Ah 450A
-
-Utilisée sur rover 120 préparé 
-http://www.skyrichbattery.com/p552/HJTX30L-FP%3Cbr-/%3ELithium-Ion-Battery-YIX30L/product_info.html
-
-Pb fiabilité
-
-Odyssey PC680 OK
-Odyssey PC625 OK
-Odyssey PC545 OK Metal jacket pour temperature étentues + vibrations 
+[x] Skyrich Lithium-Ion
 
 # Pression réservoir
 
