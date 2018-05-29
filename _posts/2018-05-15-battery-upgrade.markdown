@@ -16,7 +16,7 @@ Quelle que soit l'option, il est possible de jouer sur la capacité pour se cont
 Origine
 -------
 Fulmen formula 12V 50Ah 450A BAC L1D 
-poids : 12.8 (donnee fabriquant)
+poids : 12.8 (donnee fabriquant) 12.15 (mesuré) 
 tarif : 100€ (5 sept 2016)
 Dim : 207x175x190 mm 
 
@@ -68,7 +68,28 @@ Skyrich
 
 LiFePO4 => OK !
 
-skyrich vehicule compatibility test
+## Bilan Poids
+
+![support_batterie](/assets/images/support_batterie.jpg)
+
+![skyrich](/assets/images/skyrich.jpg)
+
+### Origine
+
+* batterie : 12150 g
+* support:  950g
+* Total: 13100g
+
+
+### Nouvelles pièces
+
+* Skyrich HJTX20(H)L-FP-S: 1445g
+
+**Gain : 11.6 kg**
+
+
+Skyrich vehicule compatibility test
+-----------------------------------
 Step1: Connect the battery terminal with the motorcycle’s wire, Red wire connect positive, Black wire connect negative, then start the motorcycle
 
 Step2: Connect the charging voltage tester with the motorcycle’s wire. Red wire connect positive, Black wire connect negative, the tester indicate the battery open circuit voltage
@@ -78,12 +99,6 @@ Step3: Disconnect battery terminal with motorcycle positive wire, then the teste
 Step4: Stall the motorcycle and take off the key, Connect the multimeter (milliamperes mode function ) with battery and motorcycle output wire(Positive terminal or Negative terminal) in series, Then check the motorcycle power consumption by Milliamperes model. To make sure the current deliver less than 1mA during motorcycle stall
 
 Step5: if the motorcycle passes the above test, the Skyrich engine starts lithium battery can be installed on the motorcycle.
-
-
-
-
-Fabricant US A123
-Fabricant chinois BYD
 
 
 Procedure remplacement batterie
