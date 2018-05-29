@@ -5,7 +5,7 @@ date:   2018-05-15 18:15:00 +0200
 categories: elise light 
 ---
 
-Dans la diminution du poids, un gain facile peut être obtenu sur la batterie. L'originale pèse dans les 13kg et son support prêt d'1Kg.
+Dans la diminution du poids, un gain facile peut être obtenu sur la batterie. L'originale pèse dans les 13kg et son support près d'1Kg.
 
 Une première option consiste à prendre un batterie plomb pur, pour un gain d'environ 6Kg(TBC).
 
@@ -13,31 +13,29 @@ Un autre option est le passage à une batterie Lithium-Ion, pour un gain de 11Kg
 
 Quelle que soit l'option, il est possible de jouer sur la capacité pour se contenter du strict nécessaire et diminuer encore un peu le poids.
 
-Origine
--------
+## Origine
+
 Fulmen formula 12V 50Ah 450A BAC L1D 
 poids : 12.8 (donnee fabriquant) 12.15 (mesuré) 
 tarif : 100€ (5 sept 2016)
 Dim : 207x175x190 mm 
 
-Besoin
-------
+## Besoin
 
 Démarrage uniquement. Moteur tournant, plus besoin de baterrie. A l'arret, soit coupe circuit, soit chargeur d'entretien.
 
 Démarreur 1.4KW
 
+## Offre
 
-Option plomb pur
-----------------
+### Batteries plomb pur
 
 Odyssey PC680 (proche origine) ou PC545 (dèja utilisé sur elise 1.8 rover)
 MJ Metal jacket pour une meilleure tenue aux vibration, chocs et temperature (-40°C à 80°C contre -40°C à 45°C sinon)
 T cosse voiture
 
 
-Caractéristiques 
-----------------
+#### Caractéristiques 
 
 |  | PC545 | PC680|
 |--|-------|------|
@@ -54,42 +52,50 @@ Caractéristiques
 
 PC680 16Ah tient 2 semaines sur une elise (source forum) 
 
-Choix
------
+#### Prix
+
 PC680 MJT 125€ + 15€ pour les cosses (https://nedplex.fr)
 PC545MJ 120€ (https://nedplex.fr), adaptation cosses à faire
 
-Option Lithium-Ion
-------------------
+### Batteries Lithium-Ion
+
+#### Risques 
 
 Oxyde de manganese ou de cobalt à proscrire. Phosphate de fer OK. (source Michel Armand)
 
-Skyrich 
+#### Skyrich 
 
 LiFePO4 => OK !
 
-## Bilan Poids
+Skyrich HJTX20(H)L-FP-S  170€ [sileverperformance](http://www.silverperformance.fr/batterie-skyrich-hjtx20hlfps-lithium-ion-130kg-ytx20lbs-ytx20hlbs-p-88415.html)
+
+**Attention**
+
+donnée pour 18Ah 420A mais caractéristiques constructeur [skyrich](https://www.skyrichbattery.com/product_info.php?products_id=581): 14Ah 380A 
+
+### Bilan Poids
 
 ![support_batterie](/assets/images/support_batterie.jpg)
 
 ![skyrich](/assets/images/skyrich.jpg)
 
-### Origine
+#### Origine
 
 * batterie : 12150 g
 * support:  950g
 * Total: 13100g
 
 
-### Nouvelles pièces
+#### Nouvelles pièces
 
 * Skyrich HJTX20(H)L-FP-S: 1445g
 
 **Gain : 11.6 kg**
 
+## Annexes
 
-Skyrich vehicule compatibility test
------------------------------------
+### Skyrich vehicule compatibility test
+
 Step1: Connect the battery terminal with the motorcycle’s wire, Red wire connect positive, Black wire connect negative, then start the motorcycle
 
 Step2: Connect the charging voltage tester with the motorcycle’s wire. Red wire connect positive, Black wire connect negative, the tester indicate the battery open circuit voltage
@@ -101,8 +107,7 @@ Step4: Stall the motorcycle and take off the key, Connect the multimeter (millia
 Step5: if the motorcycle passes the above test, the Skyrich engine starts lithium battery can be installed on the motorcycle.
 
 
-Procedure remplacement batterie
---------------------------------
+### Procedure remplacement batterie
 
 S2 K-series Fitting
 
