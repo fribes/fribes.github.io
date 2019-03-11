@@ -1,0 +1,115 @@
+---
+layout: post
+title:  "Renovation avant"
+date:   2019-03-04 18:15:00 +0200
+categories: elise light 
+---
+
+## Déclencheur
+
+Quelques éléments avaient besoin de rénovation:
+
+- fixations des anti brouillards corrodées
+- support de l'anneau de remorquage corrodé
+- roulements de ventilateur bruyants
+- commande de chauffage à moitié fontionnelle
+
+mais l'obligation de retirer le masque avant m'avait dissuadé de m'y attaquer...
+
+Heureusement, une petite accélération pour suivre une bmw joueuse m'a facilité la vie en projetant quelques goutellettes de liquide de refroidissement sur le pare brise: le radiateur s'était mis à fuir !
+
+## Dépose du masque avant
+
+Tuto pour les grandes lignes. Quelque notes additionnelles utiles:
+
+- clé plate de 10mm à cliquet quasi obligatoire pour la visserie au niveau des charnières de porte
+- j'ai tout étiqueté au démontage pour ne pas galérer car je me doutais que je ne remonterais pas de suite, et finalement, environ deux mois plus tard, cela m'a bien aidé
+- pour libérer la bulle des phares, les trois vis à défaire sont celles à tête cylindrique, style clé allen, à ne confondre avec celles juste à coté qui tiennent le berceau des optiques
+
+## Remplacement du raditeur
+
+Rien de particulier, penser à réutiliser les entretoises de l'ancien sur le nouveau
+Prendre garde à ne pas déformer les plis en alu très fragiles
+
+### Montage ventilateur
+
+Ne pas se fier à la couleur des fils et faire un essai pour vérifier le sens de rotation des pales et les faire tourner pour pousser l'air à travers le radiateur. Le montage sur l'élise est inversé par rapport à la majorité des véhicules pour lesquels le radiateur est situé en amont du ventilateur.
+
+### Poids
+
+ancien radiateur avec ventilos : 6400 g
+
+nouveau radiateur avec ventilos: 4930 g
+
+**bilan: 1470 g gagnés**
+
+![raditateur](/assets/images/front/radiateur.jpg)
+
+![ventilo](/assets/images/front/ventilo.jpg)
+
+## Remplacement durites d'eau
+
+J'ai profité de l'accès pour changer les deux durites reliées au radiateur. Malgré leur 15 ans, les originales ne semblaient pas abimées, mais pour les démonter j'ai du les ouvrir au cutter. Les nouvelles, en silicone, sont censées être plus résistantes.
+
+A noter que sur une élise s2 111S à moteur rover, le système de refroidissement est le même que sur les motorisatons Toyota. Forme des durites et double ventilateur. J'ai pu échangé les durites dites Rover par celles dites Toyota chez LIR-Racing.
+
+![eau](/assets/images/front/durite_eau.jpg)
+
+
+### Poids
+
+**36 g en plus :-(**
+
+## Remplacement actuateur de chauffage et ajout protection
+
+La commande chaud / froid du chauffage ne fonctionne pas correctement, j'ai profité du démontage pour rénover le bloc :
+
+- remplacement (préventif) de l'actuateur
+- nettoyage des poulies crantées (amas d'oxyde d'aluminium)
+- lubrificaion des axes
+- installation d'une protection pare pluie de l'actuateur
+
+Le problème est au niveau de la commande. Constaté en branchant l'actuateur sur la commande du flux de chauffage (pied / milieu pare brise) et en observant le mouvement complet. Et par les mesures sur les deux commandes:
+
+| Commande   | Gauche | Droite |
+|------------|--------|--------|          
+| direction flux d'air (OK)  | 600ohm +, 600Kohm - | 600Kohm+, 600ohm - | 
+| température (KO)  | 6Mohm +, inf - | inf +, 11Kohm - |
+
+## Remplacement durites de frein
+
+J'avais en stock des durites aviation qui attendaient d'être montées
+
+## Démontage
+
+La corrosion au niveau des étriers empéchait le démontage à la clé plate (malgré moultes giclée de WD40). De l'autre coté par contre, aucune difficulté à désserrer le raccord. Une fois la durite libérée, une clé à oeil peut être glissée jusqu'au raccord coté étrier pour le dévisser sans risquer d'arrondir l'écrou.
+
+### Poids
+
+2 anciennes durites avec ecrou : 282 g
+
+2 nouvelles durites avec écrou : 167 g
+
+**Bilan : 115 g gagnés**
+
+![freins](/assets/images/front/durite_frein.jpg)
+
+### Nettoyage bocal
+
+Il y avait du dépot marron foncé / noir un peu partout dans le bocal, résultat d'un liquide de frein qui a été laissé trop longtemps, s'est chargé en eau et a corrodé le maitre cylindre. Une purge faite précedemment avait déjà limité la quantité, mais je n'avais pas démonté et lavé le bocal. C'est fait.
+
+![bocal](/assets/images/front/bocal.jpg)
+
+## Support anneau de remorquage
+
+![towing](/assets/images/front/towing.jpg)
+
+## Anti brouillard
+
+![feu](/assets/images/front/feu.jpg)
+
+## Bonus d'anti rouille sur les fixations du radiateur sur la crash box
+
+![antirouille](/assets/images/front/antirouille.jpg)
+
+
