@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Hacké"
+date:   2020-09-20 11:15:00 +0200
+categories: cyber 
+---
+
+## Constat
+
+Achats frauduleux réalisés à la carte bleue avec fausses adresses postales, emails volés, et adresse IP empruntées... dont la mienne `2a01:e34:ecc9:a4a0:ea94:f6ff:fe09:68f2`, à deux reprises.
+
+## Recherche
+
+Avec `2a01:e34:ecc9:a4a0` qui un des prefixes IPv6 attribués à ma Freebox j'ai cherché parmi mes équipements réseaux. Au départ, à cause de l'heure de la fraude qui tombait à quelques minutes après le reveil, j'ai pensé à un de nos smartphones que l'on éteind pour la nuit et que l'on rallume le matin. Mais non, en consultant les logs DHCP de la Freebox j'ai retrouvé la MAC `ea94:f6ff:fe09:68f2` : c'est la carte BeagleBoard-XM sous Debian qui me sert de serveur de musique bit-perfect !
+
+## Première erreur
+
+Avoir laissé cette machine accessible en ssh depuis Internet (port forwarding du port 10022 vers 22) alors que je n'en avais plus besoin
+
+## Deuxième erreur
+
+Avoir utilisé un mot de passe pas bien solide. J'utilise en général des mots de passe robustes et privilégie les clés ssh, mais pas cette fois :-( Je comptais sur Fail2ban pour éviter de me faire brute forcer... sauf que   
+
+## Blaguounette de Fail2ban / Debian
+
+L'image Debian pour BeagleBaord-XM est une Jessie (8.0).
+
+Le fail2ban installé est une version `0.8.13`...
+
+Mais le support d'IPv6 n'est dispo que depuis la `0.10` :'( => adieu la protection contre le bruteforce
+
+## IPv6 et Freebox
+
+c'est plus grave en fait, depuis que l'IPv6 est activé par défaut dans les freebox (avril 2019 selon ce [site](https://www.touslesdrivers.com/index.php?v_page=3&v_code=7479) ) tous les services en écoute sur les machines du réseau local seront accessibles depuis internet ... 
+
+expliqué également [ici](https://blog.koreus.com/freebox-routeur-ipv6/) 
+
+Obligation d'activer le "firewall" IPv6 mais là du coup plus possible d'héberger quoi que ce soit en IPv6, il n'y a pas moyen de définir des règles.
+
+Avec la configuration "IPv6" activé, sans firewall, le service SSH était dispo sur le port 22, avec également un serveur Apache...
